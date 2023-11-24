@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Kamran</h1>
 <h3 align="center">Programmer | Content Writer</h3>
-<img align="right" alt="coding" width="400" src="https://www.pwc.com/content/dam/pwc/mt/en/services/cyber-security/cyber-attack-.gif"
+<img align="right" alt="coding" width="400" src="https://www.pwc.com/content/dam/pwc/mt/en/services/cyber-security/cyber-attack-.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamran47t6&label=Profile%20views&color=0e75b6&style=flat" alt="kamran47t6" /> </p>
 
