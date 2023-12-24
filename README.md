@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Python, Data Science & Algorithms, Data Analytics, Computer Organization & Assembly L**
+- 🌱 I’m currently learning **Python, Data Science & Algorithms, Data Analytics, AI and ML Anthusiast**
 
 - 📝 Read my articles on [https://medium.com/@muhammadkamran5862](https://medium.com/@muhammadkamran5862)
 
