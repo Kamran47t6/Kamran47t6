@@ -1,17 +1,17 @@
 ![logo](https://github.com/Kamran47t6/Kamran47t6/blob/main/Untitled%20design_page-0001.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Kamran</h1>
-<h3 align="center">Programmer | Content Writer</h3>
+<h3 align="center">Machine Learning | Deep Learning | X-AI</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Kamran47t6/Kamran47t6/blob/main/00086---desk-anim---v0.3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamran47t6&label=Profile%20views&color=0e75b6&style=flat" alt="kamran47t6" /> </p>
 
 
 
-- 🌱 I’m currently learning **Python, Data Science & Algorithms, SQL, AI and ML Anthusiast**
+- 🌱 I’m currently working on **Deep Learning, Vision Transformer in the HealthCare Domain with utilization of Explainable Artificial Intelligence (X-AI)**
 
 - 📝 Read my articles on [https://medium.com/@muhammadkamran5862](https://medium.com/@muhammadkamran5862)
 
-- 💬 Ask me about **C++, C#, DSA**
+- 💬 Ask me about **ML, DL, X-AI**
 
 - 📫 How to reach me **muhammadkamran5862@gmail.com**
 
